@@ -1,11 +1,5 @@
 # Hi there, I'm Kaidan 👋
 
-## I'm a currently a Student, Software Engineer, and Freelance Web Developer!
-
-- 📚 I'm studying Computer Science & Math @ Swarthmore College
-
-- 🔭 My best languages are JavaScript, Python, and C
-
 
 ## Languages:
 <p align="left">
